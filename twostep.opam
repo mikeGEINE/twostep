@@ -15,7 +15,6 @@ bug-reports: "https://github.com/marcoonroad/twostep/issues"
 dev-repo: "git+https://github.com/marcoonroad/twostep.git"
 
 build: [
-  ["dune" "build" "@check" "-p" name "-j" jobs]
   ["dune" "build" "-p" name "-j" jobs]
 ]
 
