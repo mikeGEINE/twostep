@@ -11,3 +11,5 @@ docs/vendor/bundle
 ./twostep.exe
 ./twostep.install
 .ocamlinit
+_opam
+.vscode
